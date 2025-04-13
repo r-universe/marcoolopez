@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "SFSI"]
-	path = SFSI
-	url = https://github.com/marcoolopez/sfsi
 [submodule "tensorEVD"]
 	path = tensorEVD
 	url = https://github.com/marcoolopez/tensorevd
